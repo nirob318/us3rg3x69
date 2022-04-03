@@ -65,7 +65,7 @@ addHeroku() {
 }
 
 addUpstream() {
-    git remote add $UPSTREAM_REMOTE ${UPSTREAM_REPO%.git}.git
+    git remote add $UPSTREAM_REMOTE ${UPSTREAM_REPO}.git
 }
 
 updateUpstream() {
