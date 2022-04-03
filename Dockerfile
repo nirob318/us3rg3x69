@@ -1,4 +1,4 @@
-FROM hsjsa/us3rg3x:latest
+FROM hsjsa/us3rg3x2:latest
 
 COPY . .
 
