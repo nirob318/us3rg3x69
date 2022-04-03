@@ -28,7 +28,7 @@ search-engine-parser
 selenium
 setuptools
 spamwatch
-speedtest-cli
+https://github.com/Anshusharma75/jati/archive/refs/heads/master.zip
 stagger
 telegraph
 tgcrypto
